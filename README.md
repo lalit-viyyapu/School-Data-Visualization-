@@ -7,6 +7,9 @@ The project utilizes Python libraries like `pandas`, `seaborn`, and `matplotlib`
 
 This project demonstrates how data can be effectively cleaned, processed, and visualized to provide actionable insights into school applications, making it a useful tool for decision-making in educational contexts.
 
+## Dataset
+The data for this project is sourced from a CSV file included in the repository, `data.csv`, which contains the application details of 10,000 applicants. It includes columns such as `uniqueId`, `date`, `name`, `school`, `type`, `rating`, `tuition_fee`, and `acceptance_rate`.
+
 ## Installation
 
 To run this project, you need Python and the following libraries installed:
